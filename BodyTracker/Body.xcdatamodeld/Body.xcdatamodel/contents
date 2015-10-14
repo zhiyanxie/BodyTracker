@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="14F27" minimumToolsVersion="Xcode 7.0">
+    <entity name="Body" representedClassName="Body" syncable="YES">
+        <attribute name="location" optional="YES" attributeType="String" defaultValueString="LOCATION" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" defaultValueString="TITLE" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Body" positionX="-63" positionY="-18" width="128" height="90"/>
+    </elements>
+</model>
